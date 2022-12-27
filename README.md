@@ -1,4 +1,4 @@
-# Flask-ChatGPT-TelegramBot-V
+# Flask-ChatGPT-TelegramBot-Vercel
 # 一個Flask ChatGPT TelegramBot快速建置於平台Vercel。
 
 
